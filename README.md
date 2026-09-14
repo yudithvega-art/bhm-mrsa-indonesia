@@ -2,4 +2,4 @@
 Bayesian hierarchical method for presumptive MRSA concentration.
 
 
-Please refer to the latest ver. of Refit_rev_04 and Exposure_dose_full_rev_2
+Please refer to the latest ver. of Refit_rev_04 and Exposure_dose_full_rev_3.
